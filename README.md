@@ -35,9 +35,9 @@ For each query sample:
 4. Return the species with the most votes.
 
 Three distance metrics are compared:
-- **Euclidean** — straight-line distance.
-- **Manhattan** — sum of absolute differences.
-- **Cosine** — 1 minus cosine similarity (angle between feature vectors).
+- **Euclidean** - straight-line distance.
+- **Manhattan** - sum of absolute differences.
+- **Cosine** - 1 minus cosine similarity (angle between feature vectors).
 
 ## Preprocessing
 
