@@ -46,7 +46,7 @@ Min-max normalization is applied **inside** each cross-validation fold:
 1. Compute min/max on the training split only.
 2. Apply the same min/max to both training and test splits.
 
-This avoids data leakage — the test set never influences preprocessing.
+This avoids data leakage - the test set never influences preprocessing.
 
 ## Cross-validation
 
@@ -66,7 +66,7 @@ Results are averaged across all 5 folds.
 | 10 | 97.33%    | 95.33%    | 80.00% |
 | 15 | 96.67%    | 96.00%    | 80.67% |
 
-**Best:** Euclidean with K = 7 or K = 10 — 97.33%.
+**Best:** Euclidean with K = 7 or K = 10 - 97.33%.
 
 ## Findings
 
