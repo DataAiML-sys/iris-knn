@@ -1,0 +1,11 @@
+# Compiled binary
+iris
+
+# macOS debug symbols
+*.dSYM/
+
+# macOS system files
+.DS_Store
+
+# IDE files
+.vscode/
