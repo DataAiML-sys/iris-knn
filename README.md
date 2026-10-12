@@ -51,6 +51,8 @@ Results are averaged across all 5 folds.
 
 ## Results
 
+![KNN accuracy vs K](https://raw.githubusercontent.com/DataAiML-sys/iris-knn/main/plot.png)
+
 | K  | Euclidean | Manhattan | Cosine |
 |----|-----------|-----------|--------|
 | 1  | 96.00%    | 94.00%    | 81.33% |
