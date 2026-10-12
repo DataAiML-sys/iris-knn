@@ -1,5 +1,9 @@
 # Iris KNN Classifier (C++)
 
+![C++17](https://img.shields.io/badge/C%2B%2B-17-blue)
+![No dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 A from-scratch implementation of the K-Nearest Neighbors algorithm in C++17
 for classifying Iris flowers, with 5-fold cross-validation, three distance
 metrics, and min-max feature normalization.
